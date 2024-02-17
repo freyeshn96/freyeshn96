@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @freyeshn96
 - 👀 I’m interested in IA
 - 🌱 I’m currently learning React with OpenAI
+- :construction_worker: My current personal project: Developing an IdP.
 - 📫 How to reach me: freyeshn96.dev@gmail.com
 - 😄 Pronouns: ZenTron, RoNz, Cr33d.
